@@ -29,3 +29,6 @@ git checkout перемещение
 Если не видно котенка, можно посмотреть через ссылку [ссылка на картинку котенка](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA#/media/%D0%A4%D0%B0%D0%B9%D0%BB:1-month-old_kittens_32.jpg)
 
 git branch - показать все ветки
+
+git merge - слияние
+
